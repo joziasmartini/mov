@@ -12,13 +12,19 @@ app.use(express.json())
 // Database
 import db from "../config/db"
 
+// Logger
+import Logger from "../config/logger"
+
+// Middlewares
+import morganMiddleware from "./middlewares/morganMiddleware";
+
+app.use(morganMiddleware)
+
 // Routes
 import router from "./router"
 
 app.use("/api/", router)
 
-// Logger
-import Logger from "../config/logger"
 
 // App Port
 const port = config.get<number>("port")

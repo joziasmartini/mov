@@ -12,3 +12,11 @@
 2022-03-01 21:28:40:2840 - [31merror[39m: [31mNão foi possível conectar ao banco de dados.[39m
 2022-03-01 21:28:50:2850 - [32minfo[39m: [32mConectou ao banco de dados![39m
 2022-03-01 21:28:50:2850 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-01 21:36:00:360 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-01 21:36:00:360 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-01 21:36:34:3634 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-01 21:36:34:3634 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-01 21:37:10:3710 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-01 21:37:10:3710 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-01 21:37:18:3718 - [35mhttp[39m: [35mGET /api/test 200 12 - 3.084 ms[39m
+[35m[39m
