@@ -1,7 +1,7 @@
 {
   "name": "mov",
   "version": "1.0.0",
-  "description": "A backend project about films (API, Loggers, Database).",
+  "description": "A backend application with MVC architecture and REST pattern to APIs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -2,6 +2,10 @@
 
 A backend application with MVC architecture and REST pattern to APIs.
 
+### Introduction
+
+This is an application that finds, publishes, updates and removes movies from a database.
+
 ### Preview
 
 This is a backend application, so it has no interfaces.
@@ -21,3 +25,8 @@ Here are some screenshots of the console while I was developing:
 - [Morgan](https://github.com/expressjs/morgan)
 - [MongoDB Atlas](https://www.mongodb.com/atlas/database)
 - [Mongoose](https://mongoosejs.com/)
+
+### Running
+
+- Install dependencies with `npm install`
+- Serve for development with `npm run dev`
