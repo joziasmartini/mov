@@ -91,3 +91,22 @@
 2022-03-23 15:49:59:4959 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
 2022-03-23 15:50:04:504 - [35mhttp[39m: [35mGET /api/movie/ 200 1110 - 39.155 ms[39m
 [35m[39m
+2022-03-23 15:51:21:5121 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-23 15:51:21:5121 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-23 15:51:45:5145 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-23 15:51:45:5145 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-23 15:52:04:524 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-23 15:52:04:524 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-23 15:54:03:543 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-23 15:54:03:543 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-23 15:54:56:5456 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-23 15:54:56:5456 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-23 15:55:32:5532 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "623b63f7fb58fac53abafa8ce" (type string) at path "_id" for model "Movie"[39m
+2022-03-23 15:55:32:5532 - [35mhttp[39m: [35mDELETE /api/movie/623b63f7fb58fac53abafa8ce 500 39 - 6.223 ms[39m
+[35m[39m
+2022-03-23 15:56:09:569 - [35mhttp[39m: [35mDELETE /api/movie/623b63f7fb58fac53abafa8c - - - - ms[39m
+[35m[39m
+2022-03-23 15:56:41:5641 - [32minfo[39m: [32mConectou ao banco de dados![39m
+2022-03-23 15:56:41:5641 - [32minfo[39m: [32mAplicação está funcionando na porta 3000.[39m
+2022-03-23 15:57:09:579 - [35mhttp[39m: [35mDELETE /api/movie/623b63f7fb58fac53abafa8c 200 36 - 75.464 ms[39m
+[35m[39m

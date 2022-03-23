@@ -2,3 +2,4 @@
 2022-03-01 21:24:31:2431 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster-one.smhpk.monegodb.net[39m
 2022-03-01 21:28:40:2840 - [31merror[39m: [31mNão foi possível conectar ao banco de dados.[39m
 2022-03-23 15:43:43:4343 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "623b68d59e68526d86fd11e6e" (type string) at path "_id" for model "Movie"[39m
+2022-03-23 15:55:32:5532 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "623b63f7fb58fac53abafa8ce" (type string) at path "_id" for model "Movie"[39m
