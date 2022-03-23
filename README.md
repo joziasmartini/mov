@@ -14,9 +14,10 @@ Here are some screenshots of the console while I was developing:
 
 ### Technologies
 
-- TypeScript
-- Express
-- Express Validator
-- Winston
-- Morgan
-- MongoDB Atlas
+- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/)
+- [Express Validator](https://express-validator.github.io/docs/)
+- [Winston](https://github.com/winstonjs/winston)
+- [Morgan](https://github.com/expressjs/morgan)
+- [MongoDB Atlas](https://www.mongodb.com/atlas/database)
+- [Mongoose](https://mongoosejs.com/)
